@@ -20,10 +20,15 @@ Custom terrain shader for auto applying texture with infinity repeating pattern 
 
 Custom shader that imitates PSX shader without Vertex precision
 
-### PSX Unlit
-<img src='./images/psx_unlit_cut.gif' width='400'>
+### PSX Unlit / URP UNLIT
+<img src='./images/psx_unlit_cut.gif' width='400'> <img src='./images/urp_unlit_cut.gif' width='400'>
 
-### URP Unlit Default
-<img src='./images/urp_unlit_cut.gif' width='400'>
+
+## Simple Water Shader
+
+Simple water shader with refraction, depth color and foam
+
+<img src='./images/water_shader_1.gif' width='400'> <img src='./images/water_shader_2.gif' width='400'>
+
 
 # more...
