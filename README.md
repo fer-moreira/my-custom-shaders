@@ -20,4 +20,4 @@ My collections of custom shader for terrain, UI and others
 
 
 ## Auto Terrain Shader V3 (3 texture based on height and face angle)
-<img src='./images/terrain_v3.png' width='650'><img src='./images/terrainv3_variables.png' width='300'>
+<img src='./images/terrain_v3.png' width='550'><img src='./images/terrainv3_variables.png' width='250'>
