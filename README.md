@@ -15,9 +15,9 @@ My collections of custom shader for terrain, UI and others
 <img src='./images/mask_mixamo_loop.gif' width='256'>
 
 ## PSX Unlit Shader
-### PSX Unlit / URP UNLIT
-<img src='./images/psx_unlit_cut.gif' width='400'>
-<img src='./images/urp_unlit_cut.gif' width='400'>
+*PSX Unlit / URP UNLIT*
+
+<img src='./images/psx_unlit_cut.gif' width='300'><img src='./images/urp_unlit_cut.gif' width='300'>
 
 
 ## HDRP Water Shader
