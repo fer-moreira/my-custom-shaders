@@ -10,6 +10,10 @@ My collections of custom shader for terrain, UI and others
 ## Auto Terrain Texture V1
 <img src='./images/auto_terrain_texture.png' width='400'>
 
+## PBR Mixamo Shader
+
+<img src='./images/mask_mixamo_loop.gif' width='400'>
+
 ## PSX Unlit Shader
 ### PSX Unlit / URP UNLIT
 <img src='./images/psx_unlit_cut.gif' width='400'>
@@ -36,5 +40,7 @@ My collections of custom shader for terrain, UI and others
 <img src='./images/terrain_v3_urp.png' width='400'>
 <img src='./images/terrain_v3_urp_debug.png' width='400'>
 <img src='./images/terrain_v3_urp_inspector.png' width='300'>
+
+
 
 
