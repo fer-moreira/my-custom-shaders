@@ -12,7 +12,7 @@ My collections of custom shader for terrain, UI and others
 
 ## PBR Mixamo Shader
 
-<img src='./images/mask_mixamo_loop.gif' width='400'>
+<img src='./images/mask_mixamo_loop.gif' width='256'>
 
 ## PSX Unlit Shader
 ### PSX Unlit / URP UNLIT
