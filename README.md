@@ -2,7 +2,14 @@
 
 My collections of custom shader for terrain, UI and others
 
-</br>
+
+## Dynamic Sprite Color (Sprite Unlit)
+### Using a mask in original sprite sheet
+<img src='./images/git_dsc_1.png' width='400'>
+
+### Applying a color pallet 
+<img src='./images/git_dsc_2.png' width='350'>
+<img src='./images/git_dsc_3.png' width='350'>
 
 ## Lowpoly Terrain
 <img src='./images/lowpoly_shader.png' width='400'>
